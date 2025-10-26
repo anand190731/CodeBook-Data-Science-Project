@@ -103,7 +103,7 @@ def clean_data(data):
 
 data = json.load(open("data2.json"))
 data = clean_data(data)
-json.dump(data, open("cleaned_data.json", "w"), indent=4)
+json.dump(data, open("cleaned_data2.json", "w"), indent=4)
 print("Data cleaned successfully!")
 ```
 
@@ -259,4 +259,4 @@ From raw data to smart recommendations — all built using pure Python! 🐍
 **Anandam P M**  
 Aspiring Data Scientist | Learning Python, SQL, and Machine Learning  
 📍 Kannur, Kerala  
-🔗 [LinkedIn](https://www.linkedin.com/in/anandampm](https://www.linkedin.com/in/anandam-p-m))  
+🔗 [LinkedIn](https://www.linkedin.com/in/anandam-p-m/)  
