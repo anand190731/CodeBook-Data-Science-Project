@@ -259,4 +259,4 @@ From raw data to smart recommendations — all built using pure Python! 🐍
 **Anandam P M**  
 Aspiring Data Scientist | Learning Python, SQL, and Machine Learning  
 📍 Kannur, Kerala  
-🔗 [LinkedIn](https://www.linkedin.com/in/anandam-p-m/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anandam-p-m-173551237/)  
